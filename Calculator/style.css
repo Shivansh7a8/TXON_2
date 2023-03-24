@@ -1,0 +1,48 @@
+body {
+     background-image:url("s.avif");
+     background-size: cover;
+}
+.container{
+    text-align: center;
+    margin-top:10px;
+    margin-left: 600px;
+}
+.imag{
+    height: 40px;
+}
+input{
+    border-radius: 21px;
+    font-size:34px;
+    height: 45px;
+    width: 456px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    width: 102px;
+    height: 60px;
+    margin: 6px;
+    background-color: transparent;
+}
+button:hover{
+    background: rgba(255, 255, 255, 0.1);
+  }
+.calculator{ 
+    background-color: transparent;
+    padding: 20px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+}
+
+#screen{
+    background-color: transparent;
+    border: 1px solid black;
+}
