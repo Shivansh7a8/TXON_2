@@ -1,6 +1,6 @@
 # TXON_2
 # Simple Calculator 
-# HTML,CSS,JAVASCRIPT
+using HTML,CSS,JAVASCRIPT
 # I Have develop  the following feature.
 1.  Mathematical operator: Addition (+), 
 Subtraction (-), Multiplication (*), 
